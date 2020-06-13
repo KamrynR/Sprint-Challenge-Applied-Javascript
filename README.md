@@ -29,15 +29,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
 1. What is the DOM?
-
+The DOM allows the user to make changes to the file without having to request another reload from the server.
 2. What is an event?
-
+An event is a user input.
 3. What is an event listener?
-
+An event listener is a method that changes code based on user input methods.
 4. Why would we convert a NodeList into an Array?
-
+You can manipulate the Array with JS, while you cannot with a NodeList.
 5. What is a component?
-
+A component is a function that makes new items on the page when given an array of data.
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
